@@ -6,8 +6,8 @@ from email import encoders
 import pandas as  pd
 import os
 def mail(filename1):
-    from1 = "avinash200016@gmail.com"
-    to = "chunduriavinash16@gmail.com"
+    from1 = "from_mail_address"
+    to = "to_mail_address"
     # instance of MIMEMultipart
     #df=pd.read_csv(filename1)
     #df.to_csv(filename1)
@@ -41,7 +41,7 @@ def mail(filename1):
 # start TLS for security
     s.starttls()
 # Authentication
-    s.login(from1, "9490484510")
+    s.login(from1, "password")
 # Converts the Multipart msg into a string
     text = data.as_string()
 # sending the mail
