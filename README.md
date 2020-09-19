@@ -42,3 +42,6 @@ marking system..
   <li>Recgonize the faces based on previous data </li>
   <li>Auto mail to particular person</li>
 </ui>
+
+# Referances
+<a href="https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b">Algorithm</a>
