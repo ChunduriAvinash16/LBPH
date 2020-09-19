@@ -43,5 +43,10 @@ marking system..
   <li>Auto mail to particular person</li>
 </ui>
 
-# Referances
-<a href="https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b">Algorithm</a>
+# References
+<ul>
+      <li>
+      <a href="https://towardsdatascience.com/face-recognition-how-lbph-works-90ec258c3d6b">Algorithm</a>            
+      </li>
+ </ul>
+
