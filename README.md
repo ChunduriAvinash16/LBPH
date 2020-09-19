@@ -1,6 +1,6 @@
 # LBPH
 
-<h3>Local Binary Pattren Histogram</h3>
+<h3>Local Binary Patterns Histogram</h3>
 
 <pre>
       Authentication is one of the significant issues in the era of the information 
